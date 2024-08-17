@@ -1,2 +1,2 @@
-# expense-management-backend
-Backend service for expense management app.
+# Expense Management
+Application for managing tracking income and expenses.
